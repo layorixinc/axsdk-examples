@@ -1,15 +1,20 @@
-# axsdk-examples
+# AXSDK Integration Examples
 
-To install dependencies:
+A collection of examples demonstrating how to integrate [AXSDK](https://layorixinc.github.io/axsdk/resources/tutorial/) into real-world applications.
 
-```bash
-bun install
-```
+## Packages
 
-To run:
+### `packages/navigation`
 
-```bash
-bun run index.ts
-```
+An example demonstrating how users can navigate directly to desired pages by querying in natural language within complex site structures.
 
-This project was created using `bun init` in bun v1.3.10. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+Instead of manually browsing through deeply nested menus, users simply describe where they want to go — and AXSDK intelligently resolves the destination and navigates there. This is especially powerful for sites with large, multi-level navigation hierarchies.
+
+**Key features:**
+- Natural language query-based page navigation
+- Works seamlessly within complex, deeply nested site structures
+- Powered by AXSDK's intent resolution capabilities
+
+## Reference
+
+- [AXSDK Tutorial](https://layorixinc.github.io/axsdk/resources/tutorial/)
