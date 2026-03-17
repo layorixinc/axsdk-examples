@@ -1,0 +1,56 @@
+# Navigation Demo Site
+> AXSDK demo site showcasing a multi-level navigation structure with products, services, company information, and contact pages.
+
+## Home
+- [Home](/): The main landing page of the Navigation Demo Site.
+
+## Products
+Overview of all product offerings including software and hardware categories.
+- [Products](/products): Browse all available products.
+- [Software](/products/software): Explore the full range of software products.
+- [Web Apps](/products/software/web-apps): Browser-based web application solutions.
+- [Mobile Apps](/products/software/mobile-apps): Mobile applications for iOS and Android platforms.
+- [Desktop Apps](/products/software/desktop-apps): Desktop applications for Windows, macOS, and Linux.
+- [Hardware](/products/hardware): Explore the full range of hardware products.
+- [Computers](/products/hardware/computers): Desktop and laptop computer systems.
+- [Peripherals](/products/hardware/peripherals): Keyboards, mice, monitors, and other accessories.
+- [Networking](/products/hardware/networking): Routers, switches, and networking equipment.
+
+## Services
+Professional services including consulting, support, and training.
+- [Services](/services): Overview of all available services.
+- [Consulting](/services/consulting): Expert consulting services for your business needs.
+- [IT Consulting](/services/consulting/it-consulting): Technology strategy and IT infrastructure consulting.
+- [Business Consulting](/services/consulting/business-consulting): Business process improvement and management consulting.
+- [Strategy](/services/consulting/strategy): Long-term strategic planning and advisory services.
+- [Support](/services/support): Comprehensive support services for customers.
+- [Technical Support](/services/support/technical): Technical troubleshooting and issue resolution.
+- [Customer Service](/services/support/customer-service): General customer service and inquiries.
+- [Knowledge Base](/services/support/knowledge-base): Self-service documentation and guides.
+- [Training](/services/training): Educational programs to develop your team's skills.
+- [Online Courses](/services/training/online-courses): Self-paced online learning modules and video courses.
+- [Workshops](/services/training/workshops): Hands-on instructor-led training workshops.
+- [Certifications](/services/training/certifications): Professional certification programs and exams.
+
+## About
+Learn more about our company, career opportunities, and latest news.
+- [About](/about): Overview of the company and its mission.
+- [Company](/about/company): Detailed information about the organization.
+- [History](/about/company/history): The founding story and milestones of the company.
+- [Mission](/about/company/mission): Our core values, vision, and mission statement.
+- [Team](/about/company/team): Meet the leadership and key team members.
+- [Careers](/about/careers): Explore opportunities to join our team.
+- [Open Positions](/about/careers/open-positions): Current job openings and available roles.
+- [Benefits](/about/careers/benefits): Employee benefits, perks, and compensation details.
+- [Culture](/about/careers/culture): Our workplace culture, values, and environment.
+- [News](/about/news): Stay up to date with the latest company news.
+- [Press Releases](/about/news/press-releases): Official press releases and announcements.
+- [Blog](/about/news/blog): Articles, insights, and updates from our team.
+- [Events](/about/news/events): Upcoming and past company events and conferences.
+
+## Contact
+Get in touch with us through the appropriate channel for your needs.
+- [Contact](/contact): Overview of all contact options.
+- [General Inquiries](/contact/general): For general questions and feedback.
+- [Sales](/contact/sales): Connect with our sales team for pricing and demos.
+- [Support](/contact/support): Reach our support team for technical or account help.
