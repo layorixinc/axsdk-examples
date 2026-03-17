@@ -17,4 +17,4 @@ Instead of manually browsing through deeply nested menus, users simply describe 
 
 ## Reference
 
-- [AXSDK Tutorial](https://layorixinc.github.io/axsdk/resources/tutorial/)
+- [AXSDK Tutorial](https://layorixinc.github.io/axsdk/tutorials/) 
