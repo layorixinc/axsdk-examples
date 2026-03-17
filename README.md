@@ -1,6 +1,6 @@
 # AXSDK Integration Examples
 
-A collection of examples demonstrating how to integrate [AXSDK](https://layorixinc.github.io/axsdk/resources/tutorial/) into real-world applications.
+A collection of examples demonstrating how to integrate [AXSDK](https://axsdk.ai) into real-world applications.
 
 ## Packages
 
